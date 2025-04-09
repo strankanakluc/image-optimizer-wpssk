@@ -1,0 +1,99 @@
+/* Image Optimization by wps.sk Admin Settings CSS */
+
+/* General Styles */
+.wrap h1 {
+  color: #7C08D0;
+  font-size: 2.5em;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.wrap form {
+  background-color: #fff;
+  border: 0px solid #ccd0d4;
+  border-radius: 40px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 20px;
+}
+
+/* Labels */
+.wrap label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+
+/* Input Fields */
+.wrap input[type='text'],
+.wrap input[type='number'],
+.wrap input[type='checkbox'] {
+  margin-bottom: 1px;
+}
+
+.wrap input[type='checkbox'] {
+  vertical-align: middle;
+}
+
+/* Descriptions */
+.description {
+  color: #555;
+  font-style: italic;
+  margin-bottom: 15px;
+  margin-top: -10px;
+}
+
+/* Settings Sections */
+.image-optimizer-wpssk-main-settings {
+  margin-bottom: 20px;
+}
+
+/* Settings Fields */
+.wrap .form-table th {
+  box-sizing: border-box;
+  padding: 10px 15px;
+  text-align: left;
+  vertical-align: top;
+  width: 250px;
+}
+
+.wrap .form-table td {
+  padding: 10px 15px;
+}
+
+.wrap .form-table input[type='text'],
+.wrap .form-table input[type='number'] {
+  width: 100px;
+}
+
+.wrap .submit {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.wrap .submit input[type='submit'] {
+  background-color: #7C08D0;
+  color: #fff;
+  font-size: 1.2em;
+  font-weight: 500;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 40px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.wrap .submit input[type='submit']:hover {
+  background-color: #b900ff;
+  color: #fff;
+}
+
+/* Checkbox List */
+.wrap .checkbox-list label {
+  display: inline-block;
+  margin-right: 10px;
+}
