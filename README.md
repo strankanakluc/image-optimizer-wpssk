@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tvorbawebov/)
 
 **Contributors:** duddi, wpssk  
-**Tags:** images, optimization, webp, compression  
+**Tags:** images, optimization, webp, compression, resize
 **Requires at least:** 5.0  
 **Tested up to:** 6.7  
 **Stable tag:** 1.1.1  
@@ -50,6 +50,10 @@ You can choose to retain or delete the original images after conversion. This ca
 1. **Settings Page:** Configure your WebP image optimization settings.
 
 ## Changelog
+
+### 1.1.1
+* Minor bugs fixed.
+* Settings page modified.
 
 ### 1.1.0
 * Minor bugs fixed.
