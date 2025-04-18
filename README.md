@@ -62,9 +62,6 @@ You can choose to retain or delete the original images after conversion. This ca
 * Settings page modified.
 
 ### 1.1.0
-
-
-https://wordpress.org/plugins/image-optimizer-wpssk/
 * Initial release.
 
 ## Upgrade Notice
@@ -75,3 +72,6 @@ https://wordpress.org/plugins/image-optimizer-wpssk/
 ## License
 
 This plugin is licensed under the GPL v3 License. For more information, see [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).
+
+
+https://wordpress.org/plugins/image-optimizer-wpssk/
