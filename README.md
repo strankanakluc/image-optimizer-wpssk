@@ -18,6 +18,8 @@
 
 Optimizes images on upload. Define max. size and select the types of images to convert to webp and what quality the optimized image should have.
 
+https://wordpress.org/plugins/image-optimizer-wpssk/
+
 ### Features:
 - Retain or delete original images after optimization
 - Set image quality and WebP compression method
@@ -60,6 +62,9 @@ You can choose to retain or delete the original images after conversion. This ca
 * Settings page modified.
 
 ### 1.1.0
+
+
+https://wordpress.org/plugins/image-optimizer-wpssk/
 * Initial release.
 
 ## Upgrade Notice
